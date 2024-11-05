@@ -1,7 +1,8 @@
-## Hi there I'm Collins!
+## Hi there! 
+My name is Collins, and I'm an ALX Africa software engineering graduate where I learnt python javascript and C, HTML and CSS specializing on backend now intrested in blockchain development
 
-- 🔭 I’m currently working on Web3 projects
-- 🌱 I’m currently learning about Blockchain development
+- 🔭 I’m currently working on a mentorship dapp build on solidity and hardhat called MirrorGap 
+- 🌱 I’m currently learning more about Blockchain development using solidity with Cyfrin
 - 👯 I’m looking to collaborate on DeFi projects and Tokenomics
 - 📫 How to reach me: https://x.com/cndanycollins
 
