@@ -1,5 +1,5 @@
 ## Hi there! 
-My name is Collins, and I'm a software engineer well vast in python, typescript, javascript and C, HTML and CSS specializing on backend now intrested in blockchain development knowledge in solidity.
+My name is Collins, and I'm a software engineer well vast in python, typescript, javascript and C, HTML and CSS specializing on backend now intrested in blockchain development knowledge in solidity, clarity and cadence.
 
 - 🔭 I’m currently working on a mentorship dapp build on solidity and hardhat called MirrorGap 
 - 🌱 I’m currently learning more about Blockchain development using solidity with Cyfrin
