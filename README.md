@@ -1,6 +1,7 @@
 ## Hi there! 
 My name is Collins, and I'm a Software & Blockchain Developer well vast in:
-                                        python, typescript, javascript and C 
+                                        python, typescript, javascript and C.
+
 Blockchain dev lang: 
                                         Solidity, clarity and cadence. 
 
